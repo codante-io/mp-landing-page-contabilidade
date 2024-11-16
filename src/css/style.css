@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.perfil {
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+
+.box {
+    width: 50%;
+}
+
+.box-image {
+    width: 100%;
+}
+
+.box-perfil {
+width: 40%;
+}
+
+.box-perfil-subtitle {
+    margin-bottom: 20px;
+}
+
+.link {
+    padding: 10px;
+    background-color: orange;
+    color: black;
+    text-decoration: none;
+}
